@@ -1,0 +1,6 @@
+C:\Users\Priyant Hirani\source\repos\TidyDesktop\TidyDesktop\bin\Debug\TidyDesktop.exe.config
+C:\Users\Priyant Hirani\source\repos\TidyDesktop\TidyDesktop\bin\Debug\TidyDesktop.exe
+C:\Users\Priyant Hirani\source\repos\TidyDesktop\TidyDesktop\bin\Debug\TidyDesktop.pdb
+C:\Users\Priyant Hirani\source\repos\TidyDesktop\TidyDesktop\obj\Debug\TidyDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Priyant Hirani\source\repos\TidyDesktop\TidyDesktop\obj\Debug\TidyDesktop.exe
+C:\Users\Priyant Hirani\source\repos\TidyDesktop\TidyDesktop\obj\Debug\TidyDesktop.pdb
